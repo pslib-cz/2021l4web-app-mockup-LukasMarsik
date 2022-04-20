@@ -107,3 +107,78 @@ V aplikaci si mohou studenti vyzkoušet své znalosti z českého a anglického 
 - ***Smrt krásných srnců***
 - České nebe
 ## Otázky Pro anglický jazyk
+1. One day, I want to climb Mt. Everest. That's a goal I want to ___ . 
+-	***achieve*** 
+-	respect 
+-	invent 
+-	acquire 
+2. Jack ___ did a thing at work today day. He spent most of his time chatting with the secretary.
+-	seldom 
+-	***hardly***
+-	rarely
+-	slightly 
+3. Weather experts have ___ that next summer will be extremely hot. 
+-	reflected 
+-	****predicted***
+-	included 
+-	prescribed 
+4. Lisa is ___ buying a pet but she's not sure what kind to get. 
+-	recalling 
+-	***considering*** 
+-	regretting 
+-	counting 
+5. It is very ___ to shop on the Internet. All you need is a credit card. 
+-	polite
+-	enthusiastic
+-	***convenient***
+-	foolish 
+6. Diamonds are ___ , which is probably one of the reasons they are valuable. 
+-	broad 
+-	flexible 
+-	talented 
+-	***rare***
+7. John recently changed his ___ . He used to be an accountant, but now he's a real estate agent. 
+-	source 
+-	mood 
+-	profit 
+-	***career*** 
+8. For a company to succeed, good management is ___ . 
+-	tough 
+-	***essential*** 
+-	broad 
+-	affordable
+9. I take the stairs in my apartment building because the elevators aren't ___ . 
+-	behind 
+-	regular 
+-	honest 
+-	***reliable***
+10. Jean has a red stain on her carpet where she ___ wine. 
+-	***spilled***
+-	acquired 
+-	blamed 
+-	baked 
+11. The Louvre is a famous museum in Paris that was designed by Chinese ___ I.M Pei. 
+-	plumber 
+-	***architect*** 
+-	mechanic
+-	interpreter 
+12. Forest fires can start naturally; for example, when ___ strikes the ground during a storm. 
+-	thunder 
+-	gasoline 
+-	rubbish 
+-	***lightning***
+13. There is still some doubt among scientists about the ___ of global warming. 
+-	review 
+-	***cause*** 
+-	effort 
+-	flood 
+14. Tim's job ___ communicating with newspapers and magazines about his company's products. 
+-	appreciates 
+-	adores 
+-	regards 
+-	***involves*** 
+15. After two hours of hard training, the coach felt that his players ___ a break. 
+-	***deserved*** 
+-	encouraged 
+-	identified 
+-	wasted
