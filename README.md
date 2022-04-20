@@ -7,7 +7,7 @@ V aplikaci si mohou studenti vyzkoušet své znalosti z českého a anglického 
 -  Na otázky bude časový limit 35 sekund.
 ## Otázky pro český jazyk
 1.	Který italský renesanční autor je znám psaním sonetů?
-  •	Dante Alighiery
+  [] Dante Alighiery
   •	William Shakespear
   •	Francesco Petrarca
   •	Giovanni Boccaccio
