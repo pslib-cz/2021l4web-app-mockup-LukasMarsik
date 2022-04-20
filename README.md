@@ -9,13 +9,13 @@ V aplikaci si mohou studenti vyzkoušet své znalosti z českého a anglického 
 1.	Který italský renesanční autor je znám psaním sonetů?
 - Dante Alighiery
 - William Shakespear
-- **Francesco Petrarca**
+- ***Francesco Petrarca***
 - Giovanni Boccaccio
 2.	Které dílo nenapsal Bohumil Hrabal?
 - Ostře sledované vlaky
 - Postřižiny
 - Slavnosti sněženek
-- **Němá barikáda**
+- ***Němá barikáda**
 3.	Jméno představitele francouzského naturalismu
 - **Émile Zola**
 - Honoré de Balzac
