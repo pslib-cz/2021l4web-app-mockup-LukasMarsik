@@ -37,7 +37,7 @@ V aplikaci si mohou studenti vyzkoušet své znalosti z českého a anglického 
 ### Vyhodnocení testu
 ![summary](/MQ_images/summary_img.jpg)
 ### Ukázka, jak kvíz funguje
-[video](/Maturita_Quiz-video.mp4)
+[Video](/Maturita_Quiz-video.mp4)
 ## Otázky pro český jazyk
 1.	Který italský renesanční autor je znám psaním sonetů?
 - Dante Alighiery
