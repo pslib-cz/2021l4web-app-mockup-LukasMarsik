@@ -3,8 +3,13 @@ V aplikaci si mohou studenti vyzkoušet své znalosti z českého a anglického 
 ## Jak bude kvíz vypadat?
 - Kvíz bude náhodně generovat otázky, na které budou 4 správné odpovědi. 
 - Jenom jedna bude pak správná. Pro český jazyk bude vytvořeno 20 otázek a 15 pro anglický jazyk.
-- Student nakonec dostane vyhodnocení kvízu a  uvidí, kolik měl správných odpovědí. 
+- Student nakonec dostane vyhodnocení kvízu a uvidí, kolik měl správných odpovědí. 
 - Na otázky bude časový limit 35 sekund.
+## Technické dodatky
+- V navbaru bude vše klikací, kliknutím na logo se student dostane na domovskou stránku, kliknutím na CJL se dostane na test z českého jazyka a kliknutím na ANJ na test z anglického jazyka
+- Postraní šipky budou funkční pouze po vyhodnocení otázky, aby se mohlo jít na další otázku, mezi otázkami v době odpovídání se nebude moct dát skákat z jedné na druhou
+- Nad otázkou je časovač nastavený na 35 sekund od překliknutí na otázku
+- V pravém rohu je k vidění aktuální otázka
 ## Použité barvy
 - #2A9D8F Navbar + nadpisy, otázky a čísla - Persian Green
 - #FFFFFF barva odpovědí + texty v navbaru, barva pozadí - White
