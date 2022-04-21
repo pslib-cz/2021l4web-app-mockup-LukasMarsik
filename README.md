@@ -20,6 +20,18 @@ V aplikaci si mohou studenti vyzkoušet své znalosti z českého a anglického 
 ## Vizualizace kvízu
 ### Úvodní stránka, kde si student vybere, jaký test chce
 ![Úvodní stránka](/MQ_images/Uvod_img.jpg)
+### Příklad jedné z otázek z českého jazyka a literatury
+![example](/MQ_images/question1_img.jpg)
+### Příklad jedné z otázek z anglického jazyka
+![example2](/MQ_images/question3_img.jpg)
+### Příklad správné odpovědi
+![right_answer](/MQ_images/right_question_img.jpg)
+### Příklad špatné odpovědi
+![wrong_answer](/MQ_images/wrong_question_img.jpg)
+### Vyhodnocení testu
+![summary](/MQ_images/summary_img.jpg)
+### Ukázka, jak kvíz funguje
+[video](/Maturita_Quiz-video.mp4)
 ## Otázky pro český jazyk
 1.	Který italský renesanční autor je znám psaním sonetů?
 - Dante Alighiery
