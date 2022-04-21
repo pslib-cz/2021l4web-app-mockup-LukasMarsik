@@ -15,7 +15,7 @@ V aplikaci si mohou studenti vyzkoušet své znalosti z českého a anglického 
   * 0-7 Nic moc!
   * 8-12 Makej dál!
   * 13-16 Chvalitebně!
-  * 17-20 Dobrá práce
+  * 17-20 Dobrá práce!
 
 ## Použité barvy
 - #2A9D8F Navbar + nadpisy, otázky a čísla - Persian Green
