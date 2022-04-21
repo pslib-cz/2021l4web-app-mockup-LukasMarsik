@@ -10,6 +10,7 @@ V aplikaci si mohou studenti vyzkoušet své znalosti z českého a anglického 
 - Postraní šipky budou funkční pouze po vyhodnocení otázky, aby se mohlo jít na další otázku, mezi otázkami v době odpovídání se nebude moct dát skákat z jedné na druhou
 - Nad otázkou je časovač nastavený na 35 sekund od překliknutí na otázku
 - V pravém rohu je k vidění aktuální otázka
+- Všechny loga a XD soubor je k naleznutí v příloze na tomto githubu
 ## Použité barvy
 - #2A9D8F Navbar + nadpisy, otázky a čísla - Persian Green
 - #FFFFFF barva odpovědí + texty v navbaru, barva pozadí - White
