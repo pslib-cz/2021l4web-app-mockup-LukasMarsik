@@ -17,6 +17,8 @@ V aplikaci si mohou studenti vyzkoušet své znalosti z českého a anglického 
 ## Použité fonty
 - Helvetica Bold - text v navbaru
 - Bebas Neue Regular - všechen ostatní text
+## Vizualizace kvízu
+![Úvodní stránka](/MQ_images/Uvod_img.jpg)
 ## Otázky pro český jazyk
 1.	Který italský renesanční autor je znám psaním sonetů?
 - Dante Alighiery
