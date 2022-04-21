@@ -119,7 +119,7 @@ V aplikaci si mohou studenti vyzkoušet své znalosti z českého a anglického 
 -	slightly 
 3. Weather experts have ___ that next summer will be extremely hot. 
 -	reflected 
--	****predicted***
+-	***predicted***
 -	included 
 -	prescribed 
 4. Lisa is ___ buying a pet but she's not sure what kind to get. 
