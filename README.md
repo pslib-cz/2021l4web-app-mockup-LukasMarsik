@@ -18,6 +18,7 @@ V aplikaci si mohou studenti vyzkoušet své znalosti z českého a anglického 
 - Helvetica Bold - text v navbaru
 - Bebas Neue Regular - všechen ostatní text
 ## Vizualizace kvízu
+### Úvodní stránka, kde si student vybere, jaký test chce
 ![Úvodní stránka](/MQ_images/Uvod_img.jpg)
 ## Otázky pro český jazyk
 1.	Který italský renesanční autor je znám psaním sonetů?
