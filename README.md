@@ -3,7 +3,7 @@ V aplikaci si mohou studenti vyzkoušet své znalosti z českého a anglického 
 ## Jak bude kvíz vypadat?
 - Kvíz bude náhodně generovat otázky, na které budou 4 správné odpovědi. 
 - Jenom jedna bude pak správná. Pro český jazyk bude vytvořeno 20 otázek a 15 pro anglický jazyk.
-- Student nakonec dostane vyhodnocení kvízu a  uvidí i správné odpovědi. 
+- Student nakonec dostane vyhodnocení kvízu a  uvidí, kolik měl správných odpovědí. 
 - Na otázky bude časový limit 35 sekund.
 ## Otázky pro český jazyk
 1.	Který italský renesanční autor je znám psaním sonetů?
