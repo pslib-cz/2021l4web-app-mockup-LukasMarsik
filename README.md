@@ -18,8 +18,8 @@ V aplikaci si mohou studenti vyzkoušet své znalosti z českého a anglického 
 - #F4A261 2. čtverec s odpovědí - Sandy Brown
 - #E76F51 3. čtverec s odpovědí - Burnt Sienna
 - #264653 4. čtverec s odpovědí - Charcoal
-- #61F46C Správná odpověď
-- #F81E1E Špatná odpověď
+- #61F46C Správná odpověď - Green
+- #F81E1E Špatná odpověď - Red
 ## Použité fonty
 - Helvetica Bold - text v navbaru
 - Bebas Neue Regular - všechen ostatní text
