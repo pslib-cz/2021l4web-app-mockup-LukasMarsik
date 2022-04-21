@@ -5,6 +5,18 @@ V aplikaci si mohou studenti vyzkoušet své znalosti z českého a anglického 
 - Jenom jedna bude pak správná. Pro český jazyk bude vytvořeno 20 otázek a 15 pro anglický jazyk.
 - Student nakonec dostane vyhodnocení kvízu a  uvidí, kolik měl správných odpovědí. 
 - Na otázky bude časový limit 35 sekund.
+## Použité barvy
+- #2A9D8F Navbar + nadpisy, otázky a čísla - Persian Green
+- #FFFFFF barva odpovědí + texty v navbaru, barva pozadí - White
+- #E9C46A 1. čtverec s odpovědí - Maize Crayola
+- #F4A261 2. čtverec s odpovědí - Sandy Brown
+- #E76F51 3. čtverec s odpovědí - Burnt Sienna
+- #264653 4. čtverec s odpovědí - Charcoal
+- #61F46C Správná odpověď
+- #F81E1E Špatná odpověď
+## Použité fonty
+- Helvetica Bold - text v navbaru
+- Bebas Neue Regular - všechen ostatní text
 ## Otázky pro český jazyk
 1.	Který italský renesanční autor je znám psaním sonetů?
 - Dante Alighiery
